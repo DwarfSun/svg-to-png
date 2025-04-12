@@ -5,8 +5,8 @@ The following options are available:
  ------------- | --- 
  --input, -i   | Path to the .svg file, or a folder containing .svg files. <br> Defaults to ./ 
  --output, -o  | Folder to output the .png file(s). <br> Defaults to ./output-png/ 
- --color, -c   | Color to use for 'currentColor' in the SVG. Can be a named color like 'white' or a hex value like '#FFFFFF'. <br> Defaults to 'black' 
- --scale, -s   | Scale factor for the output PNG. Use values greater than 1 for larger images, less than 1 for smaller. <br> Defaults to 1.0 
+ --color, -c   | Color to use for 'currentColor' in the SVG. <br> Can be a named color like 'white' or a hex value like '#FFFFFF'. <br> Defaults to 'black' 
+ --scale, -s   | Scale factor for the output PNG. <br> Use values greater than 1 for larger images, less than 1 for smaller. <br> Defaults to 1.0 
  --help, -h    | Displays instructions on how the app works 
 
 Usage:
